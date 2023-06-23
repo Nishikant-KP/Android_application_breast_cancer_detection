@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Breast Cancer Detector</string>
+    <string name="breast_cancer_detector">Breast Cancer Detector</string>
+    <string name="benign">
+        <font size ="30">Benign</font>
+        <font size ="20">\n The uploaded report does not contain any tumorous lumps\n
+            Be safe and stay healthy. \n&#128522;</font>
+    </string>
+    <string name="malignant">
+        <font size ="30">Malignant</font>
+        <font size = "20">\n The uploaded report might contain tumorous lumps
+        Consult a doctor if you have not. \n &#127973;</font>
+    </string>
+</resources>
